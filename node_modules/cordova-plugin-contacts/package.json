@@ -1,0 +1,133 @@
+{
+  "_args": [
+    [
+      "cordova-plugin-contacts",
+      "/home/biasawae/COBA_ANDROID/walanja"
+    ]
+  ],
+  "_from": "cordova-plugin-contacts@latest",
+  "_id": "cordova-plugin-contacts@2.3.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/cordova-plugin-contacts",
+  "_nodeVersion": "6.10.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/cordova-plugin-contacts-2.3.1.tgz_1493685632698_0.7195126279257238"
+  },
+  "_npmUser": {
+    "email": "maj.fil@gmail.com",
+    "name": "filmaj"
+  },
+  "_npmVersion": "3.10.10",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "cordova-plugin-contacts",
+    "raw": "cordova-plugin-contacts",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-contacts/-/cordova-plugin-contacts-2.3.1.tgz",
+  "_shasum": "3d143685857120af89731ba9a1b73d50079259d2",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-contacts",
+  "_where": "/home/biasawae/COBA_ANDROID/walanja",
+  "author": {
+    "name": "Apache Software Foundation"
+  },
+  "bugs": {
+    "url": "https://github.com/apache/cordova-plugin-contacts/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-contacts",
+    "platforms": [
+      "amazon-fireos",
+      "android",
+      "blackberry10",
+      "firefoxos",
+      "ios",
+      "ubuntu",
+      "windows",
+      "windows8",
+      "wp8"
+    ]
+  },
+  "dependencies": {},
+  "description": "Cordova Contacts Plugin",
+  "devDependencies": {
+    "jshint": "^2.6.0"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "3d143685857120af89731ba9a1b73d50079259d2",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-contacts/-/cordova-plugin-contacts-2.3.1.tgz"
+  },
+  "engines": {
+    "cordovaDependencies": {
+      "3.0.0": {
+        "cordova": ">100"
+      }
+    }
+  },
+  "homepage": "https://github.com/apache/cordova-plugin-contacts#readme",
+  "keywords": [
+    "contacts",
+    "cordova",
+    "cordova-amazon-fireos",
+    "cordova-android",
+    "cordova-blackberry10",
+    "cordova-firefoxos",
+    "cordova-ios",
+    "cordova-ubuntu",
+    "cordova-windows",
+    "cordova-windows8",
+    "cordova-wp7",
+    "cordova-wp8",
+    "ecosystem:cordova"
+  ],
+  "license": "Apache-2.0",
+  "maintainers": [
+    {
+      "name": "bowserj",
+      "email": "bowserj@apache.org"
+    },
+    {
+      "name": "csantanapr",
+      "email": "csantana23@gmail.com"
+    },
+    {
+      "name": "filmaj",
+      "email": "maj.fil@gmail.com"
+    },
+    {
+      "name": "purplecabbage",
+      "email": "purplecabbage@gmail.com"
+    },
+    {
+      "name": "shazron",
+      "email": "shazron@gmail.com"
+    },
+    {
+      "name": "stevegill",
+      "email": "stevengill97@gmail.com"
+    }
+  ],
+  "name": "cordova-plugin-contacts",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apache/cordova-plugin-contacts.git"
+  },
+  "scripts": {
+    "jshint": "node node_modules/jshint/bin/jshint www && node node_modules/jshint/bin/jshint src && node node_modules/jshint/bin/jshint tests",
+    "test": "npm run jshint"
+  },
+  "types": "./types/index.d.ts",
+  "version": "2.3.1"
+}

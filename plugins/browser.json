@@ -1,0 +1,55 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "org.walanja.walanja"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "org.walanja.walanja"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "org.walanja.walanja"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "org.walanja.walanja"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "org.walanja.walanja"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "org.walanja.walanja"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "org.walanja.walanja"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "org.walanja.walanja"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "org.walanja.walanja"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "org.walanja.walanja"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "org.walanja.walanja"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "org.walanja.walanja"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "org.walanja.walanja"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "org.walanja.walanja"
+        }
+    }
+}
